@@ -4,9 +4,9 @@ import { Phone, Mail, MapPin, ArrowUpRight, Send } from 'lucide-react';
 import Reveal from '@/components/Reveal';
 
 const CONTACT_ROWS = [
-	{ icon: Phone, label: 'Direct line', value: '+1 (312) 555-0148', href: 'tel:+13125550148' },
-	{ icon: Mail, label: 'Email', value: 'hello@ledgerline.consulting', href: 'mailto:hello@ledgerline.consulting' },
-	{ icon: MapPin, label: 'Offices', value: 'Chicago · Rotterdam · Frankfurt', href: null },
+	{ icon: Phone, label: 'Direct line', value: '+1 (312) 555-0148', href: 'tel:+919901912186' },
+	{ icon: Mail, label: 'Email', value: 'hariprasad@infimit.com', href: 'mailto:hariprasad@infimit.com' },
+	{ icon: MapPin, label: 'Offices', value: 'Bengaluru · Salem · Chennai', href: null },
 ];
 
 export default function ContactPage() {
